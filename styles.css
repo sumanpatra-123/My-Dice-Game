@@ -1,0 +1,39 @@
+.container{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.Dice
+{
+  display: inline-block;
+  font-size: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: #FF7F50;
+}
+
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4B0082;
+}
+
+p{
+  font-size: 2rem;
+  color: #191970;
+  font-family: 'Indie Flower', cursive;
+}
+
+img{
+  width: 80%;
+}
+
+footer{
+  margin: 10%;
+  text-align: center;
+  font-size: 1.5rem;
+}
