@@ -1,2 +1,2 @@
 # My-Dice-Game
-# Awesome game
+# Awesome game by Suman Patra
